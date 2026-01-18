@@ -95,7 +95,7 @@ This work is driven by hands-on experimentation and public research.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/inderpalr
 - ✍️ Writing: AI Systems, Reliability & Observability
-- 🌍 Location: Gurugram, India
+- 🌍 Location: India
 
 ---
 
