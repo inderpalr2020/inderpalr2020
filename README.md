@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Inderpal 👋
 
-<!--
-**inderpalr2020/inderpalr2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior / Staff Software Engineer**  
+Distributed Systems • Cloud • Platform Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About me
+- Building scalable backend systems
+- Interested in SRE, infra automation, observability
+- Based in 🇮🇳 India
+
+---
+
+### 🔗 Links
+- 🌐 Website: https://yourwebsite.com
+- 💼 LinkedIn: https://linkedin.com/in/inderpalr
