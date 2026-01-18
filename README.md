@@ -1,6 +1,6 @@
 # Hi, I'm Inderpal 👋
 
-**Staff / Principal Site Reliability & Platform Engineer**  
+**Site Reliability & Platform Engineer**  
 Reliability Engineering • Distributed Systems • Cloud Platforms • AI Systems Observability
 
 ---
